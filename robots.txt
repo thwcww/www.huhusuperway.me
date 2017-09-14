@@ -1,0 +1,6 @@
+User-agent:*
+
+Crawl-delay:5
+Request-rate:30/1m
+
+Sitemap:http://www.huhusuperway.me/sitemap-index.xml

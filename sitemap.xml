@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.huhusuperway.me/</loc>
+  <lastmod>2017-08-14T03:13:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/index.html</loc>
+  <lastmod>2017-08-14T03:13:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/about.html</loc>
+  <lastmod>2017-08-14T03:11:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/listpic.html</loc>
+  <lastmod>2017-08-14T03:11:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/mylife.html</loc>
+  <lastmod>2017-08-14T03:11:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/mynote.html</loc>
+  <lastmod>2017-08-14T03:11:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/tech.html</loc>
+  <lastmod>2017-08-14T03:11:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/library.html</loc>
+  <lastmod>2017-08-14T03:11:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/articles/miguo.html</loc>
+  <lastmod>2017-08-14T01:33:37+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.huhusuperway.me/articles/nanhai.html</loc>
+  <lastmod>2017-08-14T01:33:37+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
